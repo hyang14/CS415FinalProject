@@ -1,0 +1,27 @@
+# Unreal Engine 文件夹忽略配置
+
+# 忽略 Binaries 和中间文件
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# 忽略临时构建文件
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# 忽略本地构建设置
+.vscode/
+*.xcodeproj
+.idea/
+.vs/
+
+# 忽略平台生成内容
+*.log
+*.tmp
+*.local
+*.user
