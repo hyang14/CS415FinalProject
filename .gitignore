@@ -3,8 +3,8 @@
 # 忽略 Binaries 和中间文件
 Binaries/
 DerivedDataCache/
-Intermediate/
-Saved/
+FinalProject/Intermediate/
+FinalProject/Saved/
 
 # 忽略临时构建文件
 *.sln
